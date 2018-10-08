@@ -11,18 +11,6 @@
       <address/>
       <uri>https://services.perseids.org/llt/segtok</uri>
   </annotator>
-   <annotator>
-      <short/>
-      <name/>
-      <address/>
-      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
-  </annotator>
-   <annotator>
-      <short>Polina Yordanova</short>
-      <name>Polina Yordanova</name>
-      <address>polina.v.yordanova@gmail.com</address>
-      <uri>http://data.perseus.org/sosol/users/Polina%20Yordanova</uri>
-  </annotator>
    <sentence id="1" document_id="https://github.com/polinayordanova/Treebank-of-Aphtonius-Progymnasmata/blob/master/Mythos" subdoc="" span="">
       <word id="1" form="Ἠθικὸς" lemma="" postag="" relation="" head=""/>
       <word id="2" form="μῦθος" lemma="" postag="" relation="" head=""/>
